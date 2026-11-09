@@ -1,0 +1,31 @@
+0 PROMJENA inp-1
+1 PROMJENA inp-2
+1 PROMJENA inp-3
+102 inp-1 počinje obrada
+182 PROMJENA inp-1
+182 inp-1 gotov
+182 inp-2 počinje obrada
+262 inp-2 gotov
+262 inp-3 počinje obrada
+263 PROMJENA inp-2
+362 PROMJENA inp-3
+362 inp-3 gotov
+363 inp-1 počinje obrada
+443 inp-1 gotov
+443 inp-2 počinje obrada
+444 PROMJENA inp-1
+523 inp-2 gotov
+523 inp-3 počinje obrada
+524 PROMJENA inp-2
+623 inp-3 gotov
+624 PROMJENA inp-3
+625 inp-1 počinje obrada
+705 inp-1 gotov
+705 inp-2 počinje obrada
+785 inp-2 gotov
+785 inp-3 počinje obrada
+885 inp-3 gotov
+input                    released started finished deadline period avg-start avg-finish
+inp-1                           3       3        2        2      3    108.67     221.50
+inp-2                           3       3        2        2      3    162.67     260.50
+inp-3                           3       3        2        2      2    179.00     311.00
