@@ -1,0 +1,4 @@
+# Several inputs; some responses miss deadlines but finish before their periods.
+inp-1 1 0 100 70 40
+inp-2 2 0 200 20 80
+inp-3 3 50 300 20 100

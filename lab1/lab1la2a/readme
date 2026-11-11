@@ -1,0 +1,8 @@
+Kompilirati s:
+
+    make
+
+Pokrenuti (u dva terminala) s, npr.
+
+    ./input_sim test-1.txt 1000
+    ./controller

@@ -1,0 +1,46 @@
+﻿100 PROMJENA inp-1
+106 inp-1 počinje obrada
+116 inp-1 gotov
+201 PROMJENA inp-1
+202 inp-1 počinje obrada
+212 inp-1 gotov
+300 PROMJENA inp-1
+301 inp-1 počinje obrada
+311 inp-1 gotov
+400 PROMJENA inp-1
+400 inp-1 počinje obrada
+410 inp-1 gotov
+500 PROMJENA inp-1
+501 inp-1 počinje obrada
+511 inp-1 gotov
+600 PROMJENA inp-1
+600 inp-1 počinje obrada
+610 inp-1 gotov
+700 PROMJENA inp-1
+700 inp-1 počinje obrada
+710 inp-1 gotov
+800 PROMJENA inp-1
+800 inp-1 počinje obrada
+811 inp-1 gotov
+901 PROMJENA inp-1
+901 inp-1 počinje obrada
+911 inp-1 gotov
+1000 PROMJENA inp-1
+1000 inp-1 počinje obrada
+1010 inp-1 gotov
+1101 PROMJENA inp-1
+1102 inp-1 počinje obrada
+1113 inp-1 gotov
+1200 PROMJENA inp-1
+1200 inp-1 počinje obrada
+1210 inp-1 gotov
+1300 PROMJENA inp-1
+1301 inp-1 počinje obrada
+1312 inp-1 gotov
+1400 PROMJENA inp-1
+1401 inp-1 počinje obrada
+1411 inp-1 gotov
+1412 ROK ZAUSTAVLJEN nakon 10 skracenja
+input                    released started finished deadline period avg-start avg-finish
+inp-1                          14      14       14        3      0      0.21      11.07
+rok: pocet skracenja 10, relativni rokovi: inp-1=10 ms
