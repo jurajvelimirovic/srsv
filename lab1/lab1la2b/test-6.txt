@@ -1,0 +1,4 @@
+# Several inputs; controller overload causes responses to miss their periods.
+inp-1 1 0 100 80 40
+inp-2 2 0 100 80 40
+inp-3 3 0 150 100 50

@@ -1,0 +1,2 @@
+# One periodic input, C < D < T.
+inp-1 1 100 100 10 50

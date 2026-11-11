@@ -1,0 +1,20 @@
+100 PROMJENA inp-1
+101 inp-1 počinje obrada
+111 inp-1 gotov
+201 PROMJENA inp-1
+201 inp-1 počinje obrada
+211 inp-1 gotov
+300 PROMJENA inp-1
+300 inp-1 počinje obrada
+310 inp-1 gotov
+400 PROMJENA inp-1
+400 inp-1 počinje obrada
+410 inp-1 gotov
+500 PROMJENA inp-1
+500 inp-1 počinje obrada
+510 inp-1 gotov
+600 PROMJENA inp-1
+600 inp-1 počinje obrada
+610 inp-1 gotov
+input                    released started finished deadline period avg-start avg-finish
+inp-1                           6       6        6        0      0      0.17      10.17

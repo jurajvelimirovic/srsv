@@ -198,7 +198,7 @@ int main(int argc, char **argv)
                s->started ? (double)s->total_start_delay / s->started : 0.0,
                s->finished ? (double)s->total_finish_delay / s->finished : 0.0);
     }
-    printf("rok: pocet skracenja %d, relativni rokovi:",
+    printf("rok: broj skracivanja %d, relativni rokovi:",
            deadline_reductions);
     for (int i = 0; i < count; i++)
         printf(" %s=%ld ms", inputs[i].name, relative_deadline[i]);

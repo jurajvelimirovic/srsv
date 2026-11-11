@@ -1,0 +1,173 @@
+0 PROMJENA inp-1
+0 PROMJENA inp-2
+51 PROMJENA inp-3
+počinjem kao controller 3751
+104 3751 inp-1 počinje obrada 1
+počinjem kao controller 0
+175 3751 inp-1 gotov 1
+175 3751 inp-2 počinje obrada 1
+175 PROMJENA inp-1
+176 0 inp-1 počinje obrada 2
+195 3751 inp-2 gotov 1
+195 3751 inp-3 počinje obrada 1
+200 PROMJENA inp-2
+215 3751 inp-3 gotov 1
+247 0 inp-1 gotov 2
+247 0 inp-2 počinje obrada 2
+247 PROMJENA inp-1
+248 3751 inp-1 počinje obrada 3
+267 0 inp-2 gotov 2
+268 ROK ZAUSTAVLJEN nakon 6 skracenja
+318 3751 inp-1 gotov 3
+320 PROMJENA inp-1
+321 0 inp-1 počinje obrada 4
+351 PROMJENA inp-3
+391 0 inp-1 gotov 4
+392 0 inp-3 počinje obrada 2
+400 PROMJENA inp-1
+400 PROMJENA inp-2
+401 3751 inp-1 počinje obrada 5
+412 0 inp-3 gotov 2
+472 3751 inp-1 gotov 5
+472 3751 inp-2 počinje obrada 3
+492 3751 inp-2 gotov 3
+500 PROMJENA inp-1
+501 0 inp-1 počinje obrada 6
+572 0 inp-1 gotov 6
+600 PROMJENA inp-1
+600 PROMJENA inp-2
+600 0 inp-2 počinje obrada 4
+600 3751 inp-1 počinje obrada 7
+620 0 inp-2 gotov 4
+651 PROMJENA inp-3
+671 3751 inp-1 gotov 7
+671 3751 inp-3 počinje obrada 3
+691 3751 inp-3 gotov 3
+700 PROMJENA inp-1
+701 0 inp-1 počinje obrada 8
+772 0 inp-1 gotov 8
+800 PROMJENA inp-1
+800 PROMJENA inp-2
+800 3751 inp-1 počinje obrada 9
+871 3751 inp-1 gotov 9
+871 3751 inp-2 počinje obrada 5
+891 3751 inp-2 gotov 5
+900 PROMJENA inp-1
+900 0 inp-1 počinje obrada 10
+950 PROMJENA inp-3
+970 0 inp-1 gotov 10
+970 0 inp-3 počinje obrada 4
+990 0 inp-3 gotov 4
+1000 PROMJENA inp-1
+1000 PROMJENA inp-2
+1002 3751 inp-1 počinje obrada 11
+1002 0 inp-2 počinje obrada 6
+1022 0 inp-2 gotov 6
+1072 3751 inp-1 gotov 11
+1100 PROMJENA inp-1
+1102 0 inp-1 počinje obrada 12
+1172 0 inp-1 gotov 12
+1200 PROMJENA inp-1
+1200 PROMJENA inp-2
+1201 3751 inp-1 počinje obrada 13
+1250 PROMJENA inp-3
+1272 3751 inp-1 gotov 13
+1272 3751 inp-2 počinje obrada 7
+1292 3751 inp-2 gotov 7
+1292 3751 inp-3 počinje obrada 5
+1300 PROMJENA inp-1
+1301 0 inp-1 počinje obrada 14
+1313 3751 inp-3 gotov 5
+1372 0 inp-1 gotov 14
+1400 PROMJENA inp-1
+1400 PROMJENA inp-2
+1401 0 inp-2 počinje obrada 8
+1401 3751 inp-1 počinje obrada 15
+1421 0 inp-2 gotov 8
+1471 3751 inp-1 gotov 15
+1500 PROMJENA inp-1
+1501 0 inp-1 počinje obrada 16
+1551 PROMJENA inp-3
+1572 0 inp-1 gotov 16
+1572 0 inp-3 počinje obrada 6
+1592 0 inp-3 gotov 6
+1600 PROMJENA inp-1
+1600 PROMJENA inp-2
+1601 3751 inp-1 počinje obrada 17
+1672 3751 inp-1 gotov 17
+1672 3751 inp-2 počinje obrada 9
+1692 3751 inp-2 gotov 9
+1700 PROMJENA inp-1
+1701 0 inp-1 počinje obrada 18
+1772 0 inp-1 gotov 18
+1800 PROMJENA inp-1
+1800 PROMJENA inp-2
+1800 0 inp-2 počinje obrada 10
+1801 3751 inp-1 počinje obrada 19
+1821 0 inp-2 gotov 10
+1851 PROMJENA inp-3
+1872 3751 inp-1 gotov 19
+1872 3751 inp-3 počinje obrada 7
+1892 3751 inp-3 gotov 7
+1900 PROMJENA inp-1
+1900 0 inp-1 počinje obrada 20
+1971 0 inp-1 gotov 20
+2000 PROMJENA inp-1
+2000 PROMJENA inp-2
+2001 3751 inp-1 počinje obrada 21
+2072 3751 inp-1 gotov 21
+2072 3751 inp-2 počinje obrada 11
+2092 3751 inp-2 gotov 11
+2100 PROMJENA inp-1
+2100 0 inp-1 počinje obrada 22
+2151 PROMJENA inp-3
+2170 0 inp-1 gotov 22
+2170 0 inp-3 počinje obrada 8
+2191 0 inp-3 gotov 8
+2200 PROMJENA inp-1
+2200 PROMJENA inp-2
+2201 3751 inp-1 počinje obrada 23
+2201 0 inp-2 počinje obrada 12
+2222 0 inp-2 gotov 12
+2272 3751 inp-1 gotov 23
+2300 PROMJENA inp-1
+2300 0 inp-1 počinje obrada 24
+2371 0 inp-1 gotov 24
+2400 PROMJENA inp-1
+2400 PROMJENA inp-2
+2400 3751 inp-1 počinje obrada 25
+2450 PROMJENA inp-3
+2471 3751 inp-1 gotov 25
+2471 3751 inp-2 počinje obrada 13
+2491 3751 inp-2 gotov 13
+2491 3751 inp-3 počinje obrada 9
+2501 PROMJENA inp-1
+2502 0 inp-1 počinje obrada 26
+2511 3751 inp-3 gotov 9
+2572 0 inp-1 gotov 26
+2600 PROMJENA inp-1
+2600 PROMJENA inp-2
+2601 0 inp-2 počinje obrada 14
+2602 3751 inp-1 počinje obrada 27
+2622 0 inp-2 gotov 14
+2672 3751 inp-1 gotov 27
+2700 PROMJENA inp-1
+2701 0 inp-1 počinje obrada 28
+2751 PROMJENA inp-3
+2772 0 inp-1 gotov 28
+2772 0 inp-3 počinje obrada 10
+2792 0 inp-3 gotov 10
+2800 PROMJENA inp-1
+2800 PROMJENA inp-2
+2800 3751 inp-1 počinje obrada 29
+2871 3751 inp-1 gotov 29
+2871 3751 inp-2 počinje obrada 15
+2891 3751 inp-2 gotov 15
+2900 PROMJENA inp-1
+2901 0 inp-1 počinje obrada 30
+2971 0 inp-1 gotov 30
+input                    released started finished deadline period avg-start avg-finish
+inp-1                          30      30       30        3      1      4.77      74.93
+inp-2                          15      15       15        0      0      0.00      68.73
+inp-3                          10      10       10        0      0      0.70      59.20
+rok: pocet skracenja 6, relativni rokovi: inp-1=91 ms inp-2=164 ms inp-3=272 ms

@@ -1,0 +1,4 @@
+# Several inputs, all work should finish before each deadline.
+inp-1 1 100 200 10 100
+inp-2 2 120 300 15 100
+inp-3 3 140 400 20 150
